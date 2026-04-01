@@ -24,7 +24,7 @@ Seorang mahasiswa **Universitas Amikom Yogyakarta** yang memiliki passion besar 
 ### 💻 Programming Languages & Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c#,js,ts,nodejs,express,mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb,mysql,postgres" />
   </a>
 </p>
 
