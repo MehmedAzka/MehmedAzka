@@ -33,8 +33,11 @@ I am a passionate **Informatics Student at Universitas Amikom Yogyakarta**. I lo
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehmedAzka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmedAzka&layout=compact&langs_count=7&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmedAzka&show_icons=true&theme=dracula" alt="Azka Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmedAzka&theme=dracula" alt="Azka Streak" />
 </p>
 
 ---
