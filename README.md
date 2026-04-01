@@ -39,8 +39,8 @@ Seorang mahasiswa **Universitas Amikom Yogyakarta** yang memiliki passion besar 
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehmedAzka&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmedAzka&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmedazka&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmedazka&layout=compact&theme=radical" />
 </p>
 
 ---
