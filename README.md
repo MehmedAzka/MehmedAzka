@@ -1,65 +1,70 @@
 # 👋 Halo, Saya Dhiya Muhammad Azka!
-### Mahasiswa Universitas Amikom Yogyakarta | Node.js Enthusiast | Backend Developer
+### Mahasiswa Universitas Amikom Yogyakarta | Node.js Developer | Backend Enthusiast
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Mahasiswa-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend_Development-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Yogyakarta-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Student%20at%20Amikom-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Stack-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Yogyakarta-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Tentang Saya
-Seorang mahasiswa **Universitas Amikom Yogyakarta** yang memiliki passion besar di dunia pemrograman. Saya fokus membangun aplikasi yang efisien, skalabel, dan handal menggunakan ekosistem JavaScript, khususnya **Node.js**.
+Saya adalah mahasiswa **Universitas Amikom Yogyakarta** yang fokus pada pengembangan backend. Saya senang membangun sistem yang efisien dan memecahkan masalah kompleks melalui kode yang bersih.
 
-- 🎓 Saat ini sedang menempuh studi di Amikom Yogyakarta.
-- 🛠️ Senang mengulik arsitektur server-side dan RESTful API.
-- 💡 Selalu haus akan teknologi baru dan tantangan logika.
-- 🎯 Fokus saat ini: Memperdalam Microservices dan Cloud Computing.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages & Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb,mysql,postgres" />
-  </a>
-</p>
-
-### 🧰 Tools & Version Control
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
-  </a>
-</p>
+- 🎓 Sedang menempuh pendidikan di salah satu kampus IT paling kreatif di Indonesia.
+- 💻 Sangat tertarik dengan ekosistem **Node.js** dan pengembangan API.
+- ⚡ Suka mengeksplorasi performa database dan keamanan server.
+- 🎯 Tujuan saat ini: Menjadi Backend Engineer profesional yang berdampak luas.
 
 ---
 
-## 📊 Statistik GitHub
+## 🛠️ Tech Stack & Skillset
+
+### 🌐 Backend & Runtime
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nest,mongodb,mysql,postgres" />
+  </a>
+</p>
+
+### 🧰 Tools & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,nginx" />
+  </a>
+</p>
+
+---
+
+## 📊 MehmedAzka's GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmedazka&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmedazka&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehmedAzka&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmedAzka&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MehmedAzka&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact & Aktivitas
-- ☕ Bangun tidur -> Ngopi -> `npm start`.
-- 🎓 Bangga menjadi bagian dari ekosistem kreatif di Amikom.
-- 🔍 Sedang mencari peluang untuk kolaborasi proyek open-source atau magang.
+- ☕ Mengubah kopi menjadi barisan kode Node.js yang fungsional.
+- 🏢 Aktif di lingkungan kampus Amikom untuk mengasah skill teknis dan organisasi.
+- 🔍 Selalu terbuka untuk kolaborasi proyek open-source atau diskusi teknologi.
 
 ---
 
 ## 📫 Mari Terkoneksi!
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhiya Muhammad Azka" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhiyaazka" height="30" width="40" /></a>
-<a href="mailto:emailmu@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/dhiya-muhammad-azka" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dhiya Muhammad Azka" /></a>
+<a href="https://instagram.com/MehmedAzka" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="dhiyaazka" /></a>
+<a href="mailto:contact.azka@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
+  <br />
   <i>"Talk is cheap. Show me the code." - Linus Torvalds</i><br>
-  <b>Dikembangkan dengan ❤️ oleh Dhiya Muhammad Azka</b>
+  <b>Built with ❤️ by MehmedAzka</b>
 </p>
