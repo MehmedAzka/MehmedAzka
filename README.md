@@ -39,7 +39,6 @@ Saya adalah mahasiswa **Universitas Amikom Yogyakarta** yang fokus pada pengemba
 
 ## 📊 MehmedAzka's GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehmedAzka&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmedAzka&layout=compact&theme=radical" />
 </p>
 
